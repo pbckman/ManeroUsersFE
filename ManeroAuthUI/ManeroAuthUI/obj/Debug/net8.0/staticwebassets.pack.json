@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Skoluppgifter\\ASPNET_2\\ManeroUsers\\ManeroUsersFE\\ManeroUI\\ManeroAuthUI\\ManeroAuthUI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ManeroAuthUI.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ManeroAuthUI.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Skoluppgifter\\ASPNET_2\\ManeroUsers\\ManeroUsersFE\\ManeroUI\\ManeroAuthUI\\ManeroAuthUI\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Skoluppgifter\\ASPNET_2\\ManeroUsers\\ManeroUsersFE\\ManeroUI\\ManeroAuthUI\\ManeroAuthUI\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Skoluppgifter\\ASPNET_2\\ManeroUsers\\ManeroUsersFE\\ManeroUI\\ManeroAuthUI\\ManeroAuthUI\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Skoluppgifter\\ASPNET_2\\ManeroUsers\\ManeroUsersFE\\ManeroUI\\ManeroAuthUI\\ManeroAuthUI\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ManeroAuthUI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ManeroAuthUI.props",
+      "PackagePath": "build\\ManeroAuthUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ManeroAuthUI.props",
+      "PackagePath": "buildMultiTargeting\\ManeroAuthUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ManeroAuthUI.props",
+      "PackagePath": "buildTransitive\\ManeroAuthUI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

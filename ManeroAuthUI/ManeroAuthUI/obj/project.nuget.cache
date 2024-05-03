@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "4y3mM+z5c0IXmfuBK/DtXzoymIPGFKCS98lVRFRtwe3ORxxDXcJnfM7oPHvv2W0H7YOswtYosQ1qnH0noPYF2w==",
+  "dgSpecHash": "RRBaV4j57ndtmmCvYIMezLW//WFCgozPPMDSRMrP94794EtlBXTz6MeBuxyxOorQvYQ2sGbEet2Lbx1uR8UNpw==",
   "success": true,
   "projectFilePath": "C:\\Skoluppgifter\\ASPNET_2\\ManeroUsers\\ManeroUsersFE\\ManeroUI\\ManeroAuthUI\\ManeroAuthUI\\ManeroAuthUI.csproj",
   "expectedPackageFiles": [
@@ -29,6 +29,7 @@
     "C:\\Users\\backm\\.nuget\\packages\\microsoft.jsinterop\\8.0.4\\microsoft.jsinterop.8.0.4.nupkg.sha512",
     "C:\\Users\\backm\\.nuget\\packages\\microsoft.jsinterop.webassembly\\8.0.4\\microsoft.jsinterop.webassembly.8.0.4.nupkg.sha512",
     "C:\\Users\\backm\\.nuget\\packages\\system.io.pipelines\\8.0.0\\system.io.pipelines.8.0.0.nupkg.sha512",
+    "C:\\Users\\backm\\.nuget\\packages\\system.net.http.json\\8.0.0\\system.net.http.json.8.0.0.nupkg.sha512",
     "C:\\Users\\backm\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
     "C:\\Users\\backm\\.nuget\\packages\\system.text.json\\8.0.0\\system.text.json.8.0.0.nupkg.sha512"
   ],

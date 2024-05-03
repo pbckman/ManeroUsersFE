@@ -3,6 +3,7 @@ using ManeroAuthUI.Components;
 
 var builder = WebApplication.CreateBuilder(args);
 
+builder.Services.AddScoped(sp => new HttpClient { BaseAddress = new Uri("https://manero-users.azurewebsites.net") });
 // Add services to the container.
 builder.Services.AddRazorComponents()
     .AddInteractiveServerComponents()

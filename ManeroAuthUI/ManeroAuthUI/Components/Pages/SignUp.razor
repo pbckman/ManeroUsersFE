@@ -1,0 +1,73 @@
+﻿@page "/Signup"
+@using ManeroAuthUI.Models
+@using ManeroAuthUI.ViewModels
+@using Microsoft.AspNetCore.Components.Forms
+@using System.Net.Http
+@inject HttpClient Http
+
+<PageTitle>Sign Up</PageTitle>
+
+<h3>SignUp</h3>
+
+<EditForm Model="@userModel" OnValidSubmit="RegisterUser" FormName="UserRegistrationForm" >
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+
+    <label for="email">Email:</label>
+    <InputText type="email" placeholder="Email" @bind-Value="userModel.Email" id="email" />
+    <ValidationMessage For="@(() => userModel.Email)" />
+
+    <label for="email">FIRST NAME</label>
+    <InputText type="name" placeholder="First name" @bind-Value="userModel.FirstName" />
+    <ValidationMessage For="@(() => userModel.FirstName)" />
+
+    <label for="email">LAST NAME</label>
+    <InputText type="name" placeholder="Last name" @bind-Value="userModel.LastName" />
+    <ValidationMessage For="@(() => userModel.LastName)" />
+
+    <label for="email">PASSWORD</label>
+    <InputText type="password" placeholder="Password" @bind-Value="userModel.Password" />
+    <ValidationMessage For="@(() => userModel.Password)" />
+
+    <label for="email">CONFIRM PASSWORD</label>
+    <InputText type="password" placeholder="Confirm Password" @bind-Value="userModel.ConfirmPassword" />
+    <ValidationMessage For="@(() => userModel.ConfirmPassword)" />
+
+    <button type="submit">SIGN UP</button>
+</EditForm>
+
+@code {
+    UserModel userModel = new UserModel();
+
+
+
+    public async Task RegisterUser()
+    {
+
+        var signUpModel = new SignUpViewModel
+            {
+                FirstName = userModel.FirstName,
+                LastName = userModel.LastName,
+                Email = userModel.Email,
+                Password = userModel.Password
+            };
+
+        try
+        {
+            var response = await Http.PostAsJsonAsync("/api/signup", signUpModel);
+            if (response.IsSuccessStatusCode)
+            {
+                Console.WriteLine("User registered successfully!");
+            }
+            else
+            {
+                Console.WriteLine("Failed to register user.");
+            }
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine($"An error occurred: {ex.Message}");
+        }
+
+    }
+}

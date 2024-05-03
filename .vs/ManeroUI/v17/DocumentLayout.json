@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "C:\\Skoluppgifter\\ASPNET_2\\ManeroUsers\\ManeroUsersFE\\ManeroUI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{75CA0B52-BCD4-4F2C-A201-00FD565F100B}|ManeroAuthUI\\ManeroAuthUI.Client\\ManeroAuthUI.Client.csproj|c:\\skoluppgifter\\aspnet_2\\manerousers\\manerousersfe\\maneroui\\maneroauthui\\maneroauthui.client\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{75CA0B52-BCD4-4F2C-A201-00FD565F100B}|ManeroAuthUI\\ManeroAuthUI.Client\\ManeroAuthUI.Client.csproj|solutionrelative:maneroauthui\\maneroauthui.client\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A25F829B-B865-4A88-98FC-A69057D60017}|ManeroAuthUI\\ManeroAuthUI\\ManeroAuthUI.csproj|c:\\skoluppgifter\\aspnet_2\\manerousers\\manerousersfe\\maneroui\\maneroauthui\\maneroauthui\\components\\pages\\signup.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A25F829B-B865-4A88-98FC-A69057D60017}|ManeroAuthUI\\ManeroAuthUI\\ManeroAuthUI.csproj|solutionrelative:maneroauthui\\maneroauthui\\components\\pages\\signup.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75CA0B52-BCD4-4F2C-A201-00FD565F100B}|ManeroAuthUI\\ManeroAuthUI.Client\\ManeroAuthUI.Client.csproj|c:\\skoluppgifter\\aspnet_2\\manerousers\\manerousersfe\\maneroui\\maneroauthui\\maneroauthui.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75CA0B52-BCD4-4F2C-A201-00FD565F100B}|ManeroAuthUI\\ManeroAuthUI.Client\\ManeroAuthUI.Client.csproj|solutionrelative:maneroauthui\\maneroauthui.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A25F829B-B865-4A88-98FC-A69057D60017}|ManeroAuthUI\\ManeroAuthUI\\ManeroAuthUI.csproj|c:\\skoluppgifter\\aspnet_2\\manerousers\\manerousersfe\\maneroui\\maneroauthui\\maneroauthui\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A25F829B-B865-4A88-98FC-A69057D60017}|ManeroAuthUI\\ManeroAuthUI\\ManeroAuthUI.csproj|solutionrelative:maneroauthui\\maneroauthui\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A25F829B-B865-4A88-98FC-A69057D60017}|ManeroAuthUI\\ManeroAuthUI\\ManeroAuthUI.csproj|c:\\skoluppgifter\\aspnet_2\\manerousers\\manerousersfe\\maneroui\\maneroauthui\\maneroauthui\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A25F829B-B865-4A88-98FC-A69057D60017}|ManeroAuthUI\\ManeroAuthUI\\ManeroAuthUI.csproj|solutionrelative:maneroauthui\\maneroauthui\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A25F829B-B865-4A88-98FC-A69057D60017}|ManeroAuthUI\\ManeroAuthUI\\ManeroAuthUI.csproj|c:\\skoluppgifter\\aspnet_2\\manerousers\\manerousersfe\\maneroui\\maneroauthui\\maneroauthui\\viewmodels\\signupviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A25F829B-B865-4A88-98FC-A69057D60017}|ManeroAuthUI\\ManeroAuthUI\\ManeroAuthUI.csproj|solutionrelative:maneroauthui\\maneroauthui\\viewmodels\\signupviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A25F829B-B865-4A88-98FC-A69057D60017}|ManeroAuthUI\\ManeroAuthUI\\ManeroAuthUI.csproj|c:\\skoluppgifter\\aspnet_2\\manerousers\\manerousersfe\\maneroui\\maneroauthui\\maneroauthui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A25F829B-B865-4A88-98FC-A69057D60017}|ManeroAuthUI\\ManeroAuthUI\\ManeroAuthUI.csproj|solutionrelative:maneroauthui\\maneroauthui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,21 +34,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 166,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": -1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Counter.razor",
-              "DocumentMoniker": "C:\\Skoluppgifter\\ASPNET_2\\ManeroUsers\\ManeroUsersFE\\ManeroUI\\ManeroAuthUI\\ManeroAuthUI.Client\\Pages\\Counter.razor",
-              "RelativeDocumentMoniker": "ManeroAuthUI\\ManeroAuthUI.Client\\Pages\\Counter.razor",
-              "ToolTip": "C:\\Skoluppgifter\\ASPNET_2\\ManeroUsers\\ManeroUsersFE\\ManeroUI\\ManeroAuthUI\\ManeroAuthUI.Client\\Pages\\Counter.razor",
-              "RelativeToolTip": "ManeroAuthUI\\ManeroAuthUI.Client\\Pages\\Counter.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-03T15:00:16.08Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -36,10 +43,90 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Skoluppgifter\\ASPNET_2\\ManeroUsers\\ManeroUsersFE\\ManeroUI\\ManeroAuthUI\\ManeroAuthUI\\Program.cs",
+              "RelativeDocumentMoniker": "ManeroAuthUI\\ManeroAuthUI\\Program.cs",
+              "ToolTip": "C:\\Skoluppgifter\\ASPNET_2\\ManeroUsers\\ManeroUsersFE\\ManeroUI\\ManeroAuthUI\\ManeroAuthUI\\Program.cs",
+              "RelativeToolTip": "ManeroAuthUI\\ManeroAuthUI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T21:45:26.01Z",
+              "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Skoluppgifter\\ASPNET_2\\ManeroUsers\\ManeroUsersFE\\ManeroUI\\ManeroAuthUI\\ManeroAuthUI\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "ManeroAuthUI\\ManeroAuthUI\\Components\\_Imports.razor",
+              "ToolTip": "C:\\Skoluppgifter\\ASPNET_2\\ManeroUsers\\ManeroUsersFE\\ManeroUI\\ManeroAuthUI\\ManeroAuthUI\\Components\\_Imports.razor",
+              "RelativeToolTip": "ManeroAuthUI\\ManeroAuthUI\\Components\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T21:45:03.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SignUpViewModel.cs",
+              "DocumentMoniker": "C:\\Skoluppgifter\\ASPNET_2\\ManeroUsers\\ManeroUsersFE\\ManeroUI\\ManeroAuthUI\\ManeroAuthUI\\ViewModels\\SignUpViewModel.cs",
+              "RelativeDocumentMoniker": "ManeroAuthUI\\ManeroAuthUI\\ViewModels\\SignUpViewModel.cs",
+              "ToolTip": "C:\\Skoluppgifter\\ASPNET_2\\ManeroUsers\\ManeroUsersFE\\ManeroUI\\ManeroAuthUI\\ManeroAuthUI\\ViewModels\\SignUpViewModel.cs",
+              "RelativeToolTip": "ManeroAuthUI\\ManeroAuthUI\\ViewModels\\SignUpViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T21:27:48.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Skoluppgifter\\ASPNET_2\\ManeroUsers\\ManeroUsersFE\\ManeroUI\\ManeroAuthUI\\ManeroAuthUI.Client\\Program.cs",
+              "RelativeDocumentMoniker": "ManeroAuthUI\\ManeroAuthUI.Client\\Program.cs",
+              "ToolTip": "C:\\Skoluppgifter\\ASPNET_2\\ManeroUsers\\ManeroUsersFE\\ManeroUI\\ManeroAuthUI\\ManeroAuthUI.Client\\Program.cs",
+              "RelativeToolTip": "ManeroAuthUI\\ManeroAuthUI.Client\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T20:23:51.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\Skoluppgifter\\ASPNET_2\\ManeroUsers\\ManeroUsersFE\\ManeroUI\\ManeroAuthUI\\ManeroAuthUI\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "ManeroAuthUI\\ManeroAuthUI\\Models\\UserModel.cs",
+              "ToolTip": "C:\\Skoluppgifter\\ASPNET_2\\ManeroUsers\\ManeroUsersFE\\ManeroUI\\ManeroAuthUI\\ManeroAuthUI\\Models\\UserModel.cs",
+              "RelativeToolTip": "ManeroAuthUI\\ManeroAuthUI\\Models\\UserModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T18:38:13.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SignUp.razor",
+              "DocumentMoniker": "C:\\Skoluppgifter\\ASPNET_2\\ManeroUsers\\ManeroUsersFE\\ManeroUI\\ManeroAuthUI\\ManeroAuthUI\\Components\\Pages\\SignUp.razor",
+              "RelativeDocumentMoniker": "ManeroAuthUI\\ManeroAuthUI\\Components\\Pages\\SignUp.razor",
+              "ToolTip": "C:\\Skoluppgifter\\ASPNET_2\\ManeroUsers\\ManeroUsersFE\\ManeroUI\\ManeroAuthUI\\ManeroAuthUI\\Components\\Pages\\SignUp.razor",
+              "RelativeToolTip": "ManeroAuthUI\\ManeroAuthUI\\Components\\Pages\\SignUp.razor",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T16:59:05.17Z",
+              "EditorCaption": ""
             }
           ]
         }
