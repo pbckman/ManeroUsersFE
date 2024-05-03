@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManeroAuthUI", "ManeroAuthUI\ManeroAuthUI\ManeroAuthUI.csproj", "{A25F829B-B865-4A88-98FC-A69057D60017}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManeroAuthUI.Client", "ManeroAuthUI\ManeroAuthUI.Client\ManeroAuthUI.Client.csproj", "{75CA0B52-BCD4-4F2C-A201-00FD565F100B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A25F829B-B865-4A88-98FC-A69057D60017}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A25F829B-B865-4A88-98FC-A69057D60017}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A25F829B-B865-4A88-98FC-A69057D60017}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A25F829B-B865-4A88-98FC-A69057D60017}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75CA0B52-BCD4-4F2C-A201-00FD565F100B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75CA0B52-BCD4-4F2C-A201-00FD565F100B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75CA0B52-BCD4-4F2C-A201-00FD565F100B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75CA0B52-BCD4-4F2C-A201-00FD565F100B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE2C5639-DEA5-41B0-8C40-D713F83CE07E}
+	EndGlobalSection
+EndGlobal
